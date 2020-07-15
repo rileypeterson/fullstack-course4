@@ -3,7 +3,9 @@
     font-family: 'Comfortaa', cursive;
 }
 
-
+body {
+    padding-top: 70px;
+}
 
 /* .navbar-header {
     min-height: 100px;
