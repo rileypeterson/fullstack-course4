@@ -1,1 +1,2 @@
-https://rileypeterson.github.io/fullstack-course4/
+# What is this?
+I took ("audited") a [Coursera course](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) on frontend development concepts (HTML, CSS, Javascript). This branch contains the [gh-pages link to the assignments](https://rileypeterson.github.io/fullstack-course4/) and the source code for the assignments. For lecture content and assignment descriptions see the *master* branch.
